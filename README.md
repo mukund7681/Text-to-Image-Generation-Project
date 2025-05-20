@@ -31,7 +31,7 @@ Research on attention-based generative models
 #NLP
 #computer-vision
 #bert
-#pytorch or tensorflow (depending on what you used)
+#pytorch or tensorflow
 #attention-mechanism
 
 
